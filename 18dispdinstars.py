@@ -1,0 +1,10 @@
+# print D in *
+print("****  ")
+print("*.  *")
+print("*.  *")
+print("*.  *")
+print("*.  *")
+print("*.  *")
+print("*.  *")
+print("*.  *")
+print("**** ")
